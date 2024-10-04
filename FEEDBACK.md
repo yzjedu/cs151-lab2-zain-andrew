@@ -10,7 +10,7 @@
 |Result |Description|
 |--------------|-----------------------------------------|
 | **-NO** | The purpose of the program is displayed |  
-| **-NO** | Passes test case #1|   
+| **-YES** | Passes test case #1|   
 | **YES-** | Passes test case #2|
 | **YES-** | Passes test case #3|    
 | **YES-** | Passes test case #4|   
@@ -23,9 +23,9 @@
 |--------------|-----------------------------------------|
 |**YES-**| The algorithm matches the code   |
 |**YES-**| There is a block of introductory comments at the top |  
-|**YES-NO**| Purpose of the program is stated below or above intro comments as a comment  |
+|**YES**| Purpose of the program is stated below or above intro comments as a comment  |
 |**YES-**| There are comments in the code (do not need to determine if they are good)|
-|**-NO**| Nothing is typecast to an int during calculation (fine at end for output or to typecast input as int)|
+|**-YES**| Nothing is typecast to an int during calculation (fine at end for output or to typecast input as int)|
 
 ### Comments on the grading
 - Address all the n os in this feedback document to get an exemplary. 
